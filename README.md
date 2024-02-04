@@ -2,4 +2,4 @@
 
 Construyendo un clasificador de vinos con PyCaret y usando Streamlit para crear e implementar la aplicación web
 
-![Portada](Vinos.png)
+![Portada](Vinos.jpeg)
