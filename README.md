@@ -35,3 +35,8 @@ PyCaret es una biblioteca de aprendizaje automático de código bajo que automat
 Con PyCaret, básicamente podemos construir nuestro modelo de aprendizaje automático para clasificación, regresión, agrupamiento, detección de anomalías o problemas de PNL en solo unas pocas líneas de código.
 
 ![consola](modelos-vinos.png)
+
+# Cree la aplicación web con Streamlit
+Ahora es el momento de que creemos nuestra aplicación web para clasificar vinos. En esta publicación, usaremos Streamlit para crear la aplicación web, ya que es más amigable para principiantes que Flask. Además, no es necesario tener experiencia previa con HTML y CSS para utilizar Streamlit.
+
+![consola](streamlit-vinos.png)
