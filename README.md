@@ -19,3 +19,5 @@ Como hemos comentado, el objetivo de este articulo es crear un modelo de aprendi
 # Cargar y procesar los datos
 
 Los datos que usaremos en este artículo son el conjunto de datos de calidad del vino. Este conjunto de datos consta de 1599 instancias con 12 características. Carguemos el conjunto de datos con Pandas.
+
+![Portada](datos-vinos.png)
