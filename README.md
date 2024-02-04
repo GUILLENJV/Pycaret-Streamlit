@@ -33,3 +33,5 @@ El conjunto de datos también está limpio, lo que significa que no hay ningún 
 PyCaret es una biblioteca de aprendizaje automático de código bajo que automatiza todos los flujos de trabajo de aprendizaje automático. Lo que hace es que proporciona un contenedor para bibliotecas populares de aprendizaje automático como scikit-learn, XGBoost, LightGBM, CatBoost y muchas más.
 
 Con PyCaret, básicamente podemos construir nuestro modelo de aprendizaje automático para clasificación, regresión, agrupamiento, detección de anomalías o problemas de PNL en solo unas pocas líneas de código.
+
+![consola](Vinos.jpeg)
