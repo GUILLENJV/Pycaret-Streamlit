@@ -21,3 +21,15 @@ Como hemos comentado, el objetivo de este articulo es crear un modelo de aprendi
 Los datos que usaremos en este artículo son el conjunto de datos de calidad del vino. Este conjunto de datos consta de 1599 instancias con 12 características. Carguemos el conjunto de datos con Pandas.
 
 ![Portada](datos-vinos.png)
+
+Como se puede ver arriba, tenemos diferentes características tales como fixed acidity, citric acid, pH, y así sucesivamente. La tarea de nuestro clasificador es predecir si la calidad del vino es buena o mala. Sin embargo, los valores de la qualitycaracterística no son los que esperábamos. Necesitamos transformar el valor de esta función para que sea "bueno" o "malo".
+
+¡Ahora tenemos los datos que estamos buscando! Tenga en cuenta que también puede comprobar que hay 855 vinos clasificados como "buenos" y 744 vinos clasificados como "malos". Esta proporción parece bastante equilibrada y es seguro decir que no tenemos un problema de conjunto de datos desequilibrado.
+
+El conjunto de datos también está limpio, lo que significa que no hay ningún valor perdido, ningún valor duplicado y los tipos de datos son todos correctos.
+
+# Construir modelo de clasificador usando PyCaret
+
+PyCaret es una biblioteca de aprendizaje automático de código bajo que automatiza todos los flujos de trabajo de aprendizaje automático. Lo que hace es que proporciona un contenedor para bibliotecas populares de aprendizaje automático como scikit-learn, XGBoost, LightGBM, CatBoost y muchas más.
+
+Con PyCaret, básicamente podemos construir nuestro modelo de aprendizaje automático para clasificación, regresión, agrupamiento, detección de anomalías o problemas de PNL en solo unas pocas líneas de código.
