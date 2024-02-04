@@ -34,4 +34,4 @@ PyCaret es una biblioteca de aprendizaje automático de código bajo que automat
 
 Con PyCaret, básicamente podemos construir nuestro modelo de aprendizaje automático para clasificación, regresión, agrupamiento, detección de anomalías o problemas de PNL en solo unas pocas líneas de código.
 
-![consola](Vinos.jpeg)
+![consola](modelos-vinos.png)
